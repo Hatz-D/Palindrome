@@ -1,5 +1,3 @@
-// Diogo Lourenzon Hatz - 32247389
-
 public class Palindromo {
   Palindromo() {
     texto = "";
